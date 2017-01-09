@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 方靖的博客
-subtitle:
-description: 前端
+title: niu的博客
+subtitle: 方靖
+description: 
 author: 方靖
-language: zh-CN
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://fniuniu.github.io
+url: https://github.com/fniuniu/fniuniu.github.io.git
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
